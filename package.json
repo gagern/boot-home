@@ -1,0 +1,22 @@
+{
+  "name": "boot-home",
+  "version": "0.0.1",
+  "description": "Perform WoL boot remotely via AVM Fritz!Box GUI controlled by Selenium",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "^2.48.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wake-on-lan",
+    "avm",
+    "fritzbox",
+    "fritz-box",
+    "boot"
+  ],
+  "author": "Martin von Gagern <Martin.vGagern@gmx.net>",
+  "license": "MIT"
+}
